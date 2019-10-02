@@ -1,25 +1,41 @@
 #contenedor{
-    width: 968px;
+    width: 1405px;
 }
-#Menu{
-    height: 25px;
-    width: 968px;
-    background-color: blue;
-}
-
 #Slider{
-    height: 359px;
-    width: 968px;
-    background-color: chartreuse;
+    height: 100px;
+    width: 1405px;
+    background-color: rgb(151, 151, 151);
+    text-align: center;
 }
 
 #Cuerpó{
-    height: 700px;
-    background-color: chocolate
+    height:600px;
+    background-color: rgb(70, 53, 42)
 }
 
 #Footer{
     height: 50px;
-    width: 968px;
-    background-color: darkmagenta;
+    width: 1405px;
+    background-color: rgb(26, 21, 26);
+}
+#primera{
+    float: left;
+    margin: 20px 40px; 
+    padding: 20px;
+    text-align: center;
+    background-color:tan
+}
+#segunda{
+    float: left;
+    margin: 20px 50px;
+    padding: 20px;
+    text-align: center;
+    background-color:tan    
+}
+#tercera{
+    float: left;
+    margin: 20px 30px;
+    padding: 20px;
+    text-align: center;
+    background-color:tan
 }
