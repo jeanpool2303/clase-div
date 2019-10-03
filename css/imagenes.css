@@ -1,0 +1,6 @@
+img#imagen{
+    width: 350%; /*Escalamos la imagen para que su anchura sea el
+    100% del de la caja “imagen”*/
+    border: 80ch;
+    padding: 100%
+}

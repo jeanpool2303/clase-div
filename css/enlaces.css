@@ -1,0 +1,7 @@
+#indice li>a:hover{ 
+    background-color: White; color: Gray;
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: none;
+    color: red
+    }
